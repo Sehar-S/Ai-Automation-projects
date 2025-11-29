@@ -53,3 +53,6 @@ Email is sent automatically
 
 # Demo Video
 A short demo video is included in this repository showing the full workflow.
+
+https://drive.google.com/file/d/1Ztc0EZe7KMZgSRKzL1tegW9oMRgAgbZx/view?usp=drive_link
+
